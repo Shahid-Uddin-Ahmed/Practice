@@ -1,0 +1,9 @@
+*.out
+*.vvp
+*.log
+xsim.dir
+*.pb
+*.jou
+*.wdb
+*.vcd
+
